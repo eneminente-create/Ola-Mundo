@@ -1,4 +1,6 @@
 # Ola Mundo
 Primeiro repositorio versionado.
 
-Prepositorio criado durante uma aula ao vivo
+repositorio criado durante uma aula ao vivo
+
+Essa linha adicionei diretamente no site.
